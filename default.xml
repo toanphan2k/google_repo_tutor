@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding-"UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/toanphan2k" name="origin"/>
+  
+  <default remote=origin" sync-j="4"/>
+  <project name="" path=""/>
+  <project name="" path=""/>
+  
+</manifest>
